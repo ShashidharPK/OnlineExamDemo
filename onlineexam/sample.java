@@ -4,6 +4,9 @@ import java.sql.*;
 
 public class sample extends Frame implements WindowListener,ActionListener
 {
+
+public void windowActivated(WindowEvent e) {  }
+
 public void windowActivated(WindowEvent e) {  }
 public void windowDeactivated(WindowEvent e) {  }
 public void windowIconified(WindowEvent e) {  }
