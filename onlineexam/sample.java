@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
-
+//will see the demo
 public class sample extends Frame implements WindowListener,ActionListener
 {
 
